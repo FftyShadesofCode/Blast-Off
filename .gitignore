@@ -131,3 +131,6 @@ dist
 
 # Idea Folder
 .idea/
+
+# Keys
+keys.js
