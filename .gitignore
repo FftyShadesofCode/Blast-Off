@@ -133,4 +133,4 @@ dist
 .idea/
 
 # Keys
-keys.js
+dev.js
